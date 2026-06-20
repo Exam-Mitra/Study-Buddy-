@@ -1,0 +1,1 @@
+export default function PrivacyPage(){return <main className="container section"><div className="panel"><h1>Privacy Policy</h1><p>We collect basic usage and account information only when required for app features. Replace this page with your final policy before launch.</p></div></main>}
