@@ -1,0 +1,1 @@
+export default function TermsPage(){return <main className="container section"><div className="panel"><h1>Terms of Use</h1><p>This platform is for educational use. Do not misuse content, copy branding, or upload unlawful material. Replace this page with your final terms before launch.</p></div></main>}
